@@ -23,6 +23,9 @@ This project showcases a complete sales performance dashboard built in Excel usi
 2. Open the `Sales_Data` sheet to view raw data
 3. Use PivotTables and slicers in the `Dashboard` sheet to interact with the analysis
 
+  Dashboard Preview
+  [Dashboard Screenshot](Sales_Dashboard_Ashesh.png)
+
 ---
 
   Created by Ashesh Singh  
