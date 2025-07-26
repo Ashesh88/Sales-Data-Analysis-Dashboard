@@ -29,4 +29,3 @@ This project showcases a complete sales performance dashboard built in Excel usi
 ---
 
   Created by Ashesh Singh  
-  || asheshsingh35@gmail.com || https://www.linkedin.com/in/asheshsingh01/ ||
